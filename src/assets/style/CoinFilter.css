@@ -1,0 +1,21 @@
+.box-filter{
+    background-color: #494d56;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+    margin-bottom: 2rem;
+}
+.box-filter input{
+    width: 500px;
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    background-color: #606060;
+    border: 1px solid #606060;
+    color: #fff !important;
+    border-radius: .5rem;
+}
+.box-filter input::placeholder{
+    color: #ccc;
+}

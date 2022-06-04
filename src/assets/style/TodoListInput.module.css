@@ -1,0 +1,22 @@
+.additem_input{
+  background-color: #494d56;
+  color: #fff;
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem !important;
+  border: 1px solid #494d56;
+  padding: 1rem 0.5rem;
+  border-radius: .5rem;
+  font-size: 1.5rem;
+  border: 1px solid #fff;
+}
+.additem_btn{
+  background-color: #494d56 !important;
+  color: #fff !important;
+  border: 1px solid #fff;
+  width: 100%;
+  font-size: 1.5rem;
+}
+.additem_form{
+  margin-bottom: 1rem;
+}
